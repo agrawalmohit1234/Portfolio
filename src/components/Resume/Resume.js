@@ -10,9 +10,9 @@ import pdf from "../../Assets/Raj_Agrawal_Mohit_Resume.pdf";
 
 function Resume() {
   const uri = "https://vercel-backend-api-for-portfolio.vercel.app/ranks";
-  const [hackerrank, upadteHackerank] = useState(0);
-  const [sem, upadateSem] = useState(0);
-  const [cgpa, upadteCgpa] = useState(0);
+  const [hackerrank, upadteHackerank] = useState(158115);
+  const [sem, upadateSem] = useState(4);
+  const [cgpa, upadteCgpa] = useState(7.2);
 
   useEffect(() => {
     axios
