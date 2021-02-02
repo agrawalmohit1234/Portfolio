@@ -10,7 +10,7 @@ function Particle() {
             value: 160,
             density: {
               enable: true,
-              value_area: 1500,
+              value_area: 150,
             },
           },
           line_linked: {
