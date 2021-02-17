@@ -12,7 +12,7 @@ function Resume() {
   const uri = "https://vercel-backend-api-for-portfolio.vercel.app/ranks";
   const [hackerrank, upadteHackerank] = useState(158115);
   const [sem, upadateSem] = useState(4);
-  const [cgpa, upadteCgpa] = useState(7.2);
+  const [cgpa, upadteCgpa] = useState(7.0);
 
   useEffect(() => {
     axios
