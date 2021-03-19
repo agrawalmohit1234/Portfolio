@@ -34,8 +34,8 @@ function Projects() {
               imgPath={coming_soon}
               isBlog={false}
               title="Social Media App"
-              description="Create real text editor using python programming language and tkinter GUI library. This computer software is cross platform and contains all necessary features that every text editor must have. "
-              link="https://github.com/agrawalmohit1234/Social_Media_App"
+              description="Explore the capabilities of the MERN stack by implementing social media features, such as post sharing, liking, commenting, following friends, and an aggregated newsfeed."
+              link="https://github.com/agrawalmohit1234/"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -43,8 +43,8 @@ function Projects() {
               imgPath={coming_soon}
               isBlog={false}
               title="Classroom App"
-              description="Create real text editor using python programming language and tkinter GUI library. This computer software is cross platform and contains all necessary features that every text editor must have. "
-              link="https://github.com/agrawalmohit1234/ClassRoom_App"
+              description="Buiding a Web-Based Classroom Application, focuses on building a simple online classroom application by extending the MERN stack application. This classroom application will support multiple user roles, the addition of course content and lessons, student enrollments, progress tracking, and course enrollment statistics."
+              link="https://github.com/agrawalmohit1234"
             />
           </Col>
         </Row>
